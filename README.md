@@ -5,7 +5,7 @@
 ### Course 1: Basic Quantitative Trading
 Lessons: 1) Stock Prices, 2) Market Mechanics, 3) Data Processing, 4) Stock Returns, 5) Momentum Trading
 
-**Course Project : [Trading with Momentum**](https://github.com/pmikov/Artificial-Intelligence-for-Trading---nanodegree-program/blob/main/Project%201%20-%20Trading%20with%20Momentum.ipynb)
+**Course Project : [Trading with Momentum](https://github.com/pmikov/Artificial-Intelligence-for-Trading---nanodegree-program/blob/main/Project%201%20-%20Trading%20with%20Momentum.ipynb)**
 
 Generate a trading signal based on a momentum indicator. Compute the signal and produce projected returns. Finally, perform a statistical test to conclude if there is alpha in the signal.
 
