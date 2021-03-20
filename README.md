@@ -35,27 +35,27 @@ Research and generate multiple alpha factors. Apply various techniques to evalua
 ### Course 5: Sentiment Analysis with Natural Language Processing
 Lessons: 1) Intro to Natural Language Processing, 2) Text Processing, 3) Feature Extraction, 4) Financial Statements, 5) Basic NLP Analysis
 
-**Course Project: Sentiment Analysis using NLP**
+**Course Project: [Sentiment Analysis using NLP on Financial Statements](https://github.com/pmikov/Artificial-Intelligence-for-Trading---nanodegree-program/blob/main/Project%205%20-%20NLP%20on%20Financial%20Statements.ipynb)**
 
 Apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. Utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, decide which company to invest in, and the optimal time to buy or sell.
 
 ### Course 6: Advanced Natural Language Processing with Deep Learning
 Lessons: 1) Introduction to Neural Networks, 2) Training Neural Networks, 3) Deep Learning with PyTorch, 4) Recurrent Neural Networks, 5) Embeddings & Word2Vec, 6) Sentiment Prediction RNN
 
-**Course Project: Sentiment Analysis with Neural Networks**
+**Course Project: [Stock Sentiment Analysis with Neural Networks](https://github.com/pmikov/Artificial-Intelligence-for-Trading---nanodegree-program/blob/main/Project%206%20-%20Sentiment%20Analysis%20with%20Neural%20Networks.ipynb)**
 
 Build deep neural networks to process and interpret news data. Play with different ways of embedding words into vectors. Construct and train LSTM networks for sentiment classification. Run backtests and apply the models to news data for signal generation.
 
 ### Course 7: Combining Multiple Signals
 Lessons: 1) Overview, 2) Decision Trees, 3) Model Testing and Evaluation, 4) Random Forests, 5) Feature Engineering, 6) Overlapping Labels, 7) Feature Importance
 
-**Course Project: Combining Signals for Enhanced Alpha**
+**Course Project: [Combining Signals for Enhanced Alpha](https://github.com/pmikov/Artificial-Intelligence-for-Trading---nanodegree-program/blob/main/Project%207%20-%20Combining%20Signals%20for%20Enhanced%20Alpha.ipynb)**
 
 Combine signals on a random forest for enhanced alpha. While implementing this, solve the problem of overlapping samples. For the dataset, use the end of day from Quotemedia and sector data from Sharadar.
 
 ### Course 8: Backtesting - Simulating Trades with Historical Data
 Lessons: 1) Intro to Backtesting, 2) Optimization with Transaction Costs, 3) Attribution
 
-**Course Project: Backtesting**
+**Course Project: [Backtesting](https://github.com/pmikov/Artificial-Intelligence-for-Trading---nanodegree-program/blob/main/Project%208%20-%20Backtesting.ipynb)**
 
 Build a fairly realistic backtester that uses the Barra data. The backtester will perform portfolio optimization that includes transaction costs. Implement it with computational efficiency in mind, to allow for a reasonably fast backtest. Use performance attribution to identify the major drivers of portfolio's profit-and-loss (PnL).
